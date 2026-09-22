@@ -11,6 +11,3 @@ Open in IntelliJ, press `Ctrl + F9` to build, then run `mainApp1`.
 
 ## Screenshot
 ![IntelliJ Screenshot](screenshot.png)
-
-## Author
-Your Name (yourname@ust.hk)
